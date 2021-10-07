@@ -1,15 +1,15 @@
 
-# Genomics-workshop
-## Number of speakers
+# GENOMICS-WORKSHOP
+## NUMBER OF SPEAKERS
 5 scientists
-## Speakers to invite
+## SPEAKERS TO INVITE
      1. Dr. Dan Masiga, Principal Scientist, icipe
      2. Dr. Caleb Kibet, Bioinformatician, icipe
      3. Prof. Ann Muigai, Professor, JKUAT
      4. Dr. Sam Kinyanjui, Scientist, Kemri-wellcome trust
      5. Prof. Mike Barrett, Professor, University of Glasgow
      
- ## Presentation duration
+ ## PRESENTATION DURATION
  20 minutes presentation followed by 10 minutes of questions
  
 
@@ -29,7 +29,7 @@
      3. Decorations
 
 
-## Catering
+## CATERING
 * Suppliers
   * Advertise an offer to cater for the workshop.
   * Choose the most affordable package.
