@@ -1,4 +1,6 @@
 # Genomics-workshop
+## Number of speakers
+5 scientists
 ## Speakers to invite
      1. Dr. Dan Masiga, Principal Scientist, icipe
      2. Dr. Caleb Kibet, Bioinformatician, icipe
